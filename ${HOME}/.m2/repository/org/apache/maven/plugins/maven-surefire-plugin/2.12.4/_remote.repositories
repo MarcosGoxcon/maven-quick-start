@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jul 05 17:37:32 CDT 2021
+maven-surefire-plugin-2.12.4.jar>artifactory-APX=
+maven-surefire-plugin-2.12.4.pom>artifactory-APX=
